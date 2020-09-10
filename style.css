@@ -61,7 +61,6 @@ table {
 	margin: auto;
 	background: #222;
 	overflow: hidden;
-	z-index: 0;
 }
 
 .line {
