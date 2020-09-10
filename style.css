@@ -55,12 +55,13 @@ table {
 }
 
 .gameArea {
-width: 300px;
-height: 100%;
-position: relative;
-margin: auto;
-background: #222;
-overflow: hidden;
+	width: 300px;
+	height: 100%;
+	position: relative;
+	margin: auto;
+	background: #222;
+	overflow: hidden;
+	z-index: 0;
 }
 
 .line {
